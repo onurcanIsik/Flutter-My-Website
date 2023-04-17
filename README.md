@@ -6,4 +6,4 @@
 <img width="1552" alt="Ekran Resmi 2022-07-05 20 35 33" src="https://user-images.githubusercontent.com/84295038/177385036-354013ca-f086-4c83-9740-aeb398dfb5a9.png">
 <img width="1552" alt="Ekran Resmi 2022-07-05 20 36 44" src="https://user-images.githubusercontent.com/84295038/177385046-620cc770-44db-4afc-9edf-4417271db955.png">
 <img width="1426" alt="Ekran Resmi 2022-07-05 20 36 15" src="https://user-images.githubusercontent.com/84295038/177385048-4e4adeb5-26d0-426b-af24-2ce14ae01c68.png">
-<img width="1552" alt="Ekran Resmi 2022-07-05 20 36 34" src="https://user-images.githubusercontent.com/84295038/177385050-3383f1ff-d5f7-4cb4-9a77-05fa884ad8c5.png">
+
